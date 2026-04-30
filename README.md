@@ -1,3 +1,4 @@
+<img width="427" height="187" alt="Screenshot 2026-04-30 at 14 42 45" src="https://github.com/user-attachments/assets/d8657c4e-7530-416a-a1b1-7de2ec375b49" />
 # Beker Neurophysiology and Cognition Lab
 
 The Beker Lab is part of the Seaver Autism Center for Research and Treatment at the Icahn School of Medicine at Mount Sinai. The Seaver Center is a fully integrated, translational research center that leads progressive studies and provides personalized care to individuals with autism and related rare disorders. 
