@@ -2,7 +2,7 @@
 
 **Statistical analysis pipeline for:**
 > "Age-Related Increases in 40Hz Neural Synchrony Are Specific to Typical Development: A Cross-Sectional Study of Autism Spectrum Disorder"
-> Beker et al. (Biorx, 2026)
+> Beker et al. (Biorxiv, 2026)
 
 ---
 
