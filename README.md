@@ -8,6 +8,5 @@ In this repo you will find source code for published reseach from the lab.
 *  [Identifying Phelan-McDermid-Like Electrophysiological Subtypes in Autism Using EEG and Machine Learning](https://www.biorxiv.org/content/10.64898/2026.04.10.715308v1)
 * [Code](https://github.com/bekerlab/bekerlab_public/tree/2c40f18ce621771bfac9ccc0c2a729b5a46063a3/Identifying%20Phelan-McDermid-Like%20Electrophysiological%20Subtypes%20in%20Autism%20Using%20EEG%20and%20Machine%20Learning)
 
-* [Age-Related Increases in 40Hz Neural Synchrony Are Specific to Typical Development: A Cross-Sectional Study of Autism Spectrum Disorder]
-  (https://www.biorxiv.org/content/10.64898/2026.07.16.738569v1)
+* [Age-Related Increases in 40Hz Neural Synchrony Are Specific to Typical Development: A Cross-Sectional Study of Autism Spectrum Disorder](https://www.biorxiv.org/content/10.64898/2026.07.16.738569v1)
   
