@@ -1,7 +1,7 @@
 
 %% Main ASSR_ITPC_Analysis
 %  Full statistical analysis pipeline for ASSR 40Hz ITPC manuscript
-%  Shlomit Beker — Mount Sinai
+%  Shlomit Beker shlomitbeker@gmail.com
 %  Models: 0A (KW: TD vs ASD vs PMS, collapsed),
 %          0B (OLS: all groups all ages),
 %          1 (TD vs ASD w/o ID), 2 (TD + ASD w/ID + PMS under 18),
